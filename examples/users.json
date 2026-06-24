@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Ada Lovelace",
+    "email": "ada@example.com",
+    "age": 36,
+    "active": true,
+    "tags": ["mathematician", "writer"]
+  },
+  {
+    "id": 2,
+    "name": "Grace Hopper",
+    "age": 85,
+    "active": true,
+    "tags": ["programmer", "navy"],
+    "nickname": "Amazing Grace"
+  }
+]
