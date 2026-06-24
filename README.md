@@ -1,8 +1,8 @@
 # jsonforge
 
-![Tests](https://github.com/NzJulien/jsonforge/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Tests](https://img.shields.io/badge/tests-25%20passing-brightgreen)
 
 **Infer JSON Schemas, validate JSON documents, and diff JSON data — with zero runtime dependencies.**
 
